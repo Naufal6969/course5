@@ -1,6 +1,4 @@
-# Kalkulator Bunga Sederhana (Simple Interest Calculator)
-
-Proyek ini adalah bagian dari tugas akhir untuk kursus Git dan GitHub.
+# Simple Interest Calculator
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
@@ -11,4 +9,4 @@ Input:
 Output
    simple interest = p*t*r
 
-© 2022 XYZ, Inc.
+(c) 2022 XYZ, Inc.
